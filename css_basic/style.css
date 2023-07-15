@@ -1,0 +1,30 @@
+
+dy, main
+{
+	  display: flex
+  }
+
+  body{
+	    display: flex-direction: column;
+    }
+
+    main
+    {
+	      dispaly: flex-direction: row;
+	        display: flex: auto
+	}
+
+	article
+	{
+		  display: flex: 2
+	  }
+
+	  aside
+	  {
+		    display: flex: 1
+	    }
+
+	    nav
+	    {
+		      color:aquamarine;
+	      }
